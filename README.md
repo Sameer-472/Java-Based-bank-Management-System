@@ -1,7 +1,7 @@
 # 🏦 Bank Management System (Java)
 
 A simple **console-based Bank Management System** built in **Java** using **Object-Oriented Programming (OOP) principles**, **file handling**, and **transaction management**.  
-This project is designed to demonstrate **Java fundamentals**, making it a great addition to your resume and portfolio.
+This project is designed to demonstrate **Java fundamentals**.
 
 ---
 
